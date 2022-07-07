@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TYDev01
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning Vanilla JavaSxript
+- 🌱 I’m currently learning Vanilla JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
