@@ -1,4 +1,4 @@
-- 👋 <h2>Hi, I’m @TYDev01</h2>
+- 👋 ##Hi, Anthony
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning and working with JavaScript(In-Depth), Nodejs, ExpressJs, MongoDB
 - ⚙️ I can easily work with ReactJs, Chakra-Ui, Tailwind CSS, Material-Ui, Bootstrap and raw CSS
